@@ -21,7 +21,15 @@ Footage of me playing the game:
 
 
 Picture from the editor:
+<img width="1915" height="1031" alt="Godot_FirstGame" src="https://github.com/user-attachments/assets/92459bc6-ea90-44bc-a547-9049ec34c0d1" />
 
 Sample of one of the scripts for the player:
+<img width="1353" height="567" alt="Scripts_FirstGame" src="https://github.com/user-attachments/assets/cb3473d7-50b7-4211-99e1-cb1ea40dd6b7" />
 
-Issue/Error that prevented me from exporting the game into an executable:
+Unfortunately, I was not able to get the game to become an executable due issues with the Export Template. It appears to have installed correctly but it will not build for some reason.
+
+Here is what the executable template folder looks like:
+<img width="717" height="375" alt="ProofOfExportTemplatesInstalled" src="https://github.com/user-attachments/assets/d9e0b97b-2b09-4fb2-8ace-ba9b39e709ba" />
+
+Here is what the error looks like:
+<img width="957" height="568" alt="PCK_error" src="https://github.com/user-attachments/assets/58e4266d-656c-4ab6-83d8-69fb53136c96" />
