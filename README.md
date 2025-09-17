@@ -12,5 +12,8 @@ You play in a platformer style game as a knight.
 Controlled with the arrow keys and space bar, your powers are nearly infinite.
 You must hop onto platformers, dodge one enemy NPC slime and explore until you find... the four coins.
 
+I am very proud of the fact I got animated sprites and NPCs to interact with the player.
+
+Next to come will be enhanced movement and sound elements.
 
 
