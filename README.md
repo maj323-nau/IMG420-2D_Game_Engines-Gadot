@@ -18,7 +18,7 @@ Next to come will be enhanced movement and sound elements.
 
 
 Footage of me playing the game:
-
+https://www.youtube.com/shorts/lGf092lyC1c
 
 Picture from the editor:
 <img width="1915" height="1031" alt="Godot_FirstGame" src="https://github.com/user-attachments/assets/92459bc6-ea90-44bc-a547-9049ec34c0d1" />
