@@ -11,3 +11,6 @@ My demo is called 4 Coins. The point of the game is to reach the end and have fo
 You play in a platformer style game as a knight. 
 Controlled with the arrow keys and space bar, your powers are nearly infinite.
 You must hop onto platformers, dodge one enemy NPC slime and explore until you find... the four coins.
+
+
+
