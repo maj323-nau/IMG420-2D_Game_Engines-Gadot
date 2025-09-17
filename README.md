@@ -17,3 +17,11 @@ I am very proud of the fact I got animated sprites and NPCs to interact with the
 Next to come will be enhanced movement and sound elements.
 
 
+Footage of me playing the game:
+
+
+Picture from the editor:
+
+Sample of one of the scripts for the player:
+
+Issue/Error that prevented me from exporting the game into an executable:
