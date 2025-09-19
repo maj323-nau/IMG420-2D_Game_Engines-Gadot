@@ -16,6 +16,9 @@ I am very proud of the fact I got animated sprites and NPCs to interact with the
 
 Next to come will be enhanced movement and sound elements.
 
+**FOR THE TA**
+You will find my entire build in a ZIP file on this Git repo- although I have no included an executable, everything should be able to run within the Gadot editor itself.
+
 **IMPORTANT!**
 Footage of me playing the game:
 https://www.youtube.com/shorts/lGf092lyC1c
