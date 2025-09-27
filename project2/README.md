@@ -6,7 +6,6 @@
   - `register_types.h`, `register_types.cpp`: Register the custom node with Godot.
 - **demo/**: Godot game project, including:
   - `test_scene.tscn`: Scene demonstrating `CustomSprite` with `Label` and `Button`.
-  - `main.tscn`: Assignment 1 scene with `CustomSprite` integration.
   - `bin/gdexample.gdextension`: GDExtension configuration.
   - Assets (e.g., textures, scripts).
 
