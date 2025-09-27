@@ -1,0 +1,31 @@
+[gd_scene load_steps=3 format=3 uid="uid://4q541iromsyb"]
+
+[ext_resource type="Script" uid="uid://578ht5q85yyh" path="res://scene.gd" id="1_ia1lp"]
+[ext_resource type="Texture2D" uid="uid://cn4oafs7ljlev" path="res://icon.svg" id="2_sasra"]
+
+[node name="Node2D" type="Node2D"]
+script = ExtResource("1_ia1lp")
+
+[node name="CustomSprite" type="CustomSprite" parent="."]
+pulse_amplitude = 0.4
+position = Vector2(292.00003, 204)
+rotation = 747.9706
+scale = Vector2(1.3975163, 1.3975163)
+texture = ExtResource("2_sasra")
+
+[node name="PulseLabel" type="Label" parent="."]
+offset_left = 473.0
+offset_top = 128.0
+offset_right = 618.0
+offset_bottom = 177.0
+text = "Waiting for pulse...
+"
+
+[node name="StopButton" type="Button" parent="."]
+offset_left = 486.0
+offset_top = 204.0
+offset_right = 589.0
+offset_bottom = 258.0
+text = "Stop Pulsing
+
+"
