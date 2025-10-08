@@ -1,10 +1,8 @@
-## Flocking (Boids) — integration
-This assignment implements Craig Reynolds' Boids algorithm (separation, alignment, cohesion) in 2D using Godot 4.
-A `Flock` manager spawns `Boid` instances and supplies neighbor queries. Each boid computes separation,
-alignment, and cohesion steering vectors every physics frame; the resulting emergent behavior produces
-natural-looking flocking. The system is tunable via exported parameters (radii, weights, speeds). 
+## 🕹️ Flocking Integration
 
-In the final demo
-I added a mechanic where the flock chases the player for a short period when triggered — this creates tension
-and illustrates how emergent motion can be used as an enemy / hazard mechanic.
+This project implements **Craig Reynolds’ Boids algorithm** to create realistic flocking behavior for a group of sci-fi ships. Each ship (boid) follows the classic three rules of **separation**, **alignment**, and **cohesion**, with tuned weights to achieve smooth, unified motion.  
+
+The flock dynamically reacts to nearby neighbors, maintaining personal space while still aligning and moving as one coordinated group. Subtle random variation was added to prevent robotic movement, and a lightweight **leader-follow mechanic** ensures that the flock moves with cohesive direction and purpose. Edge wrapping was also implemented to keep the ships continuously visible within the play area.  
+
+Flocking enhances the game’s design by adding **lifelike group motion** that feels natural and immersive. It gives the impression of intelligent, reactive entities and adds visual depth — whether the ships are ambient background elements or actively pursuing the player. This emergent movement creates a more engaging experience, making the world feel alive without requiring complex scripting or pathfinding systems.
 
