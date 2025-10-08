@@ -9,6 +9,6 @@ This emergent movement creates a more engaging experience, making the world feel
 
 
 **To the TA** if you're reading this the game has elements to chase a player around the demo, however I wasn't able to implement this feature entirely.
-However, you will see that in Flock.gd, there is a chase state for chasing the player as well as a timer for how long they chase and a target node.
+You will see that in Flock.gd, there is a chase state for chasing the player as well as a timer for how long they chase and a target node.
 
 
