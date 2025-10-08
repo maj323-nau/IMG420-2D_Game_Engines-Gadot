@@ -1,0 +1,13 @@
+[gd_scene load_steps=3 format=3 uid="uid://bfyjvtiaeyw5"]
+
+[ext_resource type="Script" uid="uid://i2jf7gm18bu4" path="res://Boid.gd" id="1_ur8rf"]
+[ext_resource type="Texture2D" uid="uid://6scjdh2ubu4l" path="res://Ship_1_D_Small.png" id="2_cwpja"]
+
+[node name="Boid" type="Node2D"]
+script = ExtResource("1_ur8rf")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(1.1920929e-07, 0)
+rotation = 1.5707964
+scale = Vector2(0.483, 0.6)
+texture = ExtResource("2_cwpja")
