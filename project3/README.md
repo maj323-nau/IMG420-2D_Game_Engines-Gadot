@@ -1,4 +1,4 @@
-## 🕹️ Flocking Integration
+## Flocking Integration
 
 This project implements **Craig Reynolds’ Boids algorithm** to create realistic flocking behavior for a group of sci-fi ships. Each ship (boid) follows the classic three rules of **separation**, **alignment**, and **cohesion**, with tuned weights to achieve smooth, unified motion.  
 
