@@ -7,3 +7,8 @@ The flock dynamically reacts to nearby neighbors, maintaining personal space whi
 Flocking enhances the game’s design by adding **lifelike group motion** that feels natural and immersive. It gives the impression of intelligent, reactive entities and adds visual depth. 
 This emergent movement creates a more engaging experience, making the world feel alive without requiring complex scripting or pathfinding systems.
 
+
+**To the TA** if you're reading this the game has elements to chase a player around the demo, however I wasn't able to implement this feature entirely.
+However, you will see that in Flock.gd, there is a chase state for chasing the player as well as a timer for how long they chase and a target node.
+
+
