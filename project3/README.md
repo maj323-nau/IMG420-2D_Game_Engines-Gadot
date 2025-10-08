@@ -10,7 +10,7 @@ This emergent movement creates a more engaging experience, making the world feel
 
 **To the TA** 
 
-I tried to be fancy and challenge myself with "wrapping" where if the Boid's leave the edge of the map they end up on the other side, this sometimes messes up the group of the Boids so be aware.
+I tried to be fancy and challenge myself with "wrapping" where if the Boid's leave the edge of the map they end up on the other side, this sometimes messes up the flock so be aware.
 It may vary in time how long the Boids group into one unit depending on how they spawn so just give it 20-30s. 
 
 Additonally, The game has elements to chase a player around the demo, however I wasn't able to implement this feature entirely.
