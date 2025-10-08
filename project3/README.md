@@ -9,8 +9,8 @@ This emergent movement creates a more engaging experience, making the world feel
 
 
 **To the TA** 
-It may vary in time how long the Boids group into one unit depending on how they spawn so just give it 20s.
 
+It may vary in time how long the Boids group into one unit depending on how they spawn so just give it 20s.
 Additonally, The game has elements to chase a player around the demo, however I wasn't able to implement this feature entirely.
 You will see that in Flock.gd, there is a chase state for chasing the player as well as a timer for how long they chase and a target node.
 
