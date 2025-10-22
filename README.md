@@ -8,14 +8,14 @@ https://brackeysgames.itch.io/brackeys-platformer-bundle
 
 You will notice that I have implemented 
 
--A TileSet and a Tile Map
--Sprite Animations
--A Player Character and movement
--Gravity
--Enemy movement
--Collisions
--Collectibles
--UI Progress Bar (for collecting coins, far right side of map)
+- A TileSet and a Tile Map
+- Sprite Animations
+- A Player Character and movement
+- Gravity
+- Enemy movement
+- Collisions
+- Collectibles
+- UI Progress Bar (for collecting coins, far right side of map)
 
 
 Additions to this assignment (eventually) include:
