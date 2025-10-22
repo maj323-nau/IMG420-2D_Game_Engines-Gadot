@@ -11,7 +11,7 @@ Assets found here.
 
 You will notice that I have implemented 
 
-- A TileSet and a Tile Map
+- A TileSet and a TileMap
 - Sprite Animations
 - A Player Character and movement
 - Gravity
