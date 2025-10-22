@@ -7,6 +7,7 @@ Assets found here.
 https://brackeysgames.itch.io/brackeys-platformer-bundle
 
 You will notice that I have implemented 
+
 -A TileSet and a Tile Map
 -Sprite Animations
 -A Player Character and movement
