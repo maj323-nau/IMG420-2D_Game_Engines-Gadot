@@ -27,6 +27,7 @@ Controlled with the arrow keys and space bar, your powers are nearly infinite.
 You must hop onto platformers, dodge one enemy NPC slime and explore until you find... the four coins.
 
 **To the TA**
+
 I am turning in what I have now at 9pm 10/21/2025, tomorrow (10/22/2025) I plan to have my C# programming fully implemented as well as a goal to put particle effects on the coins.
 
 
