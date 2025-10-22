@@ -1,38 +1,33 @@
 # IMG420-2D_Game_Engines-Gadot
-This is my student repo. regarding any products or assignment results for my IMG420 class at NAU
+This is my project 4 assignment which is an addition into assignment 1.
 
-My first game is super simple.
-It was made in Gadot using assets I found online for free.
-The assets are here...
+Assets found here.
 
 https://brackeysgames.itch.io/brackeys-platformer-bundle
+
+You will notice that I have implemented 
+-A TileSet and a Tile Map
+-Sprite Animations
+-A Player Character and movement
+-Gravity
+-Enemy movement
+-Collisions
+-Collectibles
+-UI Progress Bar (for collecting coins, far right side of map)
+
+
+Additions to this assignment (eventually) include:
+-C# programming instead of GDscript
+-Particle Effects on the coins
 
 My demo is called 4 Coins. The point of the game is to reach the end and have four coins.
 You play in a platformer style game as a knight. 
 Controlled with the arrow keys and space bar, your powers are nearly infinite.
 You must hop onto platformers, dodge one enemy NPC slime and explore until you find... the four coins.
 
-I am very proud of the fact I got animated sprites and NPCs to interact with the player.
+**To the TA**
+I am turning in what I have now at 9pm 10/21/2025, tomorrow (10/22/2025) I plan to have my C# programming fully implemented as well as a goal to put particle effects on the coins.
 
-Next to come will be enhanced movement and sound elements.
 
-**FOR THE TA**
-You will find my entire build in a ZIP file on this Git repo- although I have not included an executable, everything should be able to run within the Gadot editor itself.
-
-**IMPORTANT!**
-Footage of me playing the game:
-https://www.youtube.com/shorts/lGf092lyC1c
-
-Picture from the editor:
-<img width="1915" height="1031" alt="Godot_FirstGame" src="https://github.com/user-attachments/assets/92459bc6-ea90-44bc-a547-9049ec34c0d1" />
-
-Sample of one of the scripts for the player:
-<img width="1353" height="567" alt="Scripts_FirstGame" src="https://github.com/user-attachments/assets/cb3473d7-50b7-4211-99e1-cb1ea40dd6b7" />
-
-Unfortunately, I was not able to get the game to become an executable due issues with the Export Template. It appears to have installed correctly but it will not build for some reason.
-
-Here is what the executable template folder looks like:
 <img width="717" height="375" alt="ProofOfExportTemplatesInstalled" src="https://github.com/user-attachments/assets/d9e0b97b-2b09-4fb2-8ace-ba9b39e709ba" />
 
-Here is what the error looks like:
-<img width="957" height="568" alt="PCK_error" src="https://github.com/user-attachments/assets/58e4266d-656c-4ab6-83d8-69fb53136c96" />
