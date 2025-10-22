@@ -19,8 +19,8 @@ You will notice that I have implemented
 
 
 Additions to this assignment (eventually) include:
--C# programming instead of GDscript
--Particle Effects on the coins
+- C# programming instead of GDscript
+- Particle Effects on the coins
 
 My demo is called 4 Coins. The point of the game is to reach the end and have four coins.
 You play in a platformer style game as a knight. 
